@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<reisid>
+	<reis>
+		<sihtkoht>USA</sihtkoht>
+		<lennujaam>
+			<nimi>Almaty Airport</nimi>
+			<hind>€167,82</hind>
+		</lennujaam>
+		<transport lennu_number="DL7317" saabumis_aeg="13:45 ">
+			<transpordi_liik>Delta Air Lines</transpordi_liik>
+			<lennu_kestus>1.5</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>France</sihtkoht>
+		<lennujaam>
+			<nimi>Dyess Air Force Base</nimi>
+			<hind>€237,68</hind>
+		</lennujaam>
+		<transport lennu_number="KL5312" saabumis_aeg="15:15 ">
+			<transpordi_liik>KLM Royal Dutch Airlines</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>USA</sihtkoht>
+		<lennujaam>
+			<nimi>Catarman National Airport</nimi>
+			<hind>€180,60</hind>
+		</lennujaam>
+		<transport lennu_number="AV3164" saabumis_aeg="15:15 ">
+			<transpordi_liik>Avianca</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>USA</sihtkoht>
+		<lennujaam>
+			<nimi>Waspam Airport</nimi>
+			<hind>€217,86</hind>
+		</lennujaam>
+		<transport lennu_number="AA3263" saabumis_aeg="16:30 ">
+			<transpordi_liik>American Airlines</transpordi_liik>
+			<lennu_kestus>1.5</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>USA</sihtkoht>
+		<lennujaam>
+			<nimi>Koltsovo Airport</nimi>
+			<hind>€181,36</hind>
+		</lennujaam>
+		<transport lennu_number="UA5241" saabumis_aeg="15:15 ">
+			<transpordi_liik>United Airlines</transpordi_liik>
+			<lennu_kestus>1.5</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>USA</sihtkoht>
+		<lennujaam>
+			<nimi>Salina Cruz Naval Air Station</nimi>
+			<hind>€212,66</hind>
+		</lennujaam>
+		<transport lennu_number="AC4523" saabumis_aeg="06:45 ">
+			<transpordi_liik>Air Canada</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>Singapore</sihtkoht>
+		<lennujaam>
+			<nimi>Kauehi Airport</nimi>
+			<hind>€248,18</hind>
+		</lennujaam>
+		<transport lennu_number="NZ1242" saabumis_aeg="07:15 ">
+			<transpordi_liik>Air New Zealand</transpordi_liik>
+			<lennu_kestus>1</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>France</sihtkoht>
+		<lennujaam>
+			<nimi>Amalfi Airport</nimi>
+			<hind>€185,77</hind>
+		</lennujaam>
+		<transport lennu_number="LH2341" saabumis_aeg="18:00 ">
+			<transpordi_liik>Lufthansa</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>USA</sihtkoht>
+		<lennujaam>
+			<nimi>Kamaran Downs Airport</nimi>
+			<hind>€248,47</hind>
+		</lennujaam>
+		<transport lennu_number="WN5349" saabumis_aeg="09:00 ">
+			<transpordi_liik>Southwest Airlines</transpordi_liik>
+			<lennu_kestus>1.5</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>USA</sihtkoht>
+		<lennujaam>
+			<nimi>Ugashik Bay Airport</nimi>
+			<hind>€245,89</hind>
+		</lennujaam>
+		<transport lennu_number="AC3232" saabumis_aeg="09:00 ">
+			<transpordi_liik>Air Canada</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>China</sihtkoht>
+		<lennujaam>
+			<nimi>Châlons-Vatry Airport</nimi>
+			<hind>€204,35</hind>
+		</lennujaam>
+		<transport lennu_number="SQ6295" saabumis_aeg="20:00 ">
+			<transpordi_liik>Singapore Airlines</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>France</sihtkoht>
+		<lennujaam>
+			<nimi>Victoria International Airport</nimi>
+			<hind>€232,37</hind>
+		</lennujaam>
+		<transport lennu_number="BA1044" saabumis_aeg="19:30 ">
+			<transpordi_liik>British Airways</transpordi_liik>
+			<lennu_kestus>4</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>France</sihtkoht>
+		<lennujaam>
+			<nimi>Hyakuri Airport</nimi>
+			<hind>€196,91</hind>
+		</lennujaam>
+		<transport lennu_number="BA7384" saabumis_aeg="11:45 ">
+			<transpordi_liik>British Airways</transpordi_liik>
+			<lennu_kestus>4</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>France</sihtkoht>
+		<lennujaam>
+			<nimi>Tchibanga Airport</nimi>
+			<hind>€194,96</hind>
+		</lennujaam>
+		<transport lennu_number="SK7547" saabumis_aeg="14:45 ">
+			<transpordi_liik>SAS Scandinavian</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>India</sihtkoht>
+		<lennujaam>
+			<nimi>Ketchikan Harbor Seaplane Base</nimi>
+			<hind>€164,31</hind>
+		</lennujaam>
+		<transport lennu_number="AZ1933" saabumis_aeg="16:30 ">
+			<transpordi_liik>Alitalia</transpordi_liik>
+			<lennu_kestus>9.5</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>China</sihtkoht>
+		<lennujaam>
+			<nimi>Olsztyn-Mazury Airport</nimi>
+			<hind>€163,64</hind>
+		</lennujaam>
+		<transport lennu_number="SQ5036" saabumis_aeg="08:15 ">
+			<transpordi_liik>Singapore Airlines</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>UK</sihtkoht>
+		<lennujaam>
+			<nimi>Lar Airport</nimi>
+			<hind>€151,25</hind>
+		</lennujaam>
+		<transport lennu_number="QR6552" saabumis_aeg="06:30 ">
+			<transpordi_liik>Qatar Airways</transpordi_liik>
+			<lennu_kestus>5</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>France</sihtkoht>
+		<lennujaam>
+			<nimi>Sibu Airport</nimi>
+			<hind>€210,01</hind>
+		</lennujaam>
+		<transport lennu_number="SA9164" saabumis_aeg="11:45 ">
+			<transpordi_liik>South African Airways</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>France</sihtkoht>
+		<lennujaam>
+			<nimi>Los Roques Airport</nimi>
+			<hind>€194,22</hind>
+		</lennujaam>
+		<transport lennu_number="BA1442" saabumis_aeg="19:45 ">
+			<transpordi_liik>British Airways</transpordi_liik>
+			<lennu_kestus>4</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>South Korea</sihtkoht>
+		<lennujaam>
+			<nimi>Santo Ângelo Airport</nimi>
+			<hind>€164,29</hind>
+		</lennujaam>
+		<transport lennu_number="NH7134" saabumis_aeg="18:15 ">
+			<transpordi_liik>All Nippon Airways</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>Argentina</sihtkoht>
+		<lennujaam>
+			<nimi>Aiken Regional Airport</nimi>
+			<hind>€229,63</hind>
+		</lennujaam>
+		<transport lennu_number="LA4953" saabumis_aeg="13:45 ">
+			<transpordi_liik>LATAM Airlines</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>Ethiopia</sihtkoht>
+		<lennujaam>
+			<nimi>Nizhnevartovsk Airport</nimi>
+			<hind>€172,20</hind>
+		</lennujaam>
+		<transport lennu_number="QR5497" saabumis_aeg="19:15 ">
+			<transpordi_liik>Qatar Airways</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+	<reis>
+		<sihtkoht>France</sihtkoht>
+		<lennujaam>
+			<nimi>Frankfurt-Egelsbach Airport</nimi>
+			<hind>€165,73</hind>
+		</lennujaam>
+		<transport lennu_number="SA4858" saabumis_aeg="16:00 ">
+			<transpordi_liik>South African Airways</transpordi_liik>
+			<lennu_kestus>3</lennu_kestus>
+		</transport>
+	</reis>
+</reisid>
